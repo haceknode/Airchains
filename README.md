@@ -1,6 +1,6 @@
 <h1 align="center">Airchains</h1>
 
-> UYARI : Her hangi bir hatada puanlarınızın kaybolmaması için kurulum aşamalarında verilen keyleri ve priv keyleri saklayın.
+> UYARI : Her hangi bir hatada puanlarınızın kaybolmaması için kurulum aşamalarında verilen keyleri ve priv keyleri saklayın...
 
 > Standart güncelleme ve gereksinimleri kuruyoruz.
 
